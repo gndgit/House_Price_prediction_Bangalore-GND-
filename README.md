@@ -30,7 +30,7 @@ This can be especially helpful for:
 The project uses two versions of the dataset:
 
 - `Bangalore_House_Data.csv` → Raw dataset containing original entries including missing values, inconsistent formats, and outliers.
-- `Bangalore_House_Data_Cleaned.csv` → Cleaned dataset after applying preprocessing techniques.
+- `Cleaned_Bangalore_Data.csv` → Cleaned dataset after applying preprocessing techniques.
 
 ---
 
